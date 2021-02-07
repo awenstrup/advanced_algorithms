@@ -2,7 +2,6 @@
 
 author: awenstrup
 """
-import pytest
 
 ex_c = [3, 2, 0, 0]
 ex_A = [[1,  2,  1,  0],
